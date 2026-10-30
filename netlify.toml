@@ -1,0 +1,17 @@
+# Netlify build configuration for the AI Digital Library (Vite + React).
+#
+# Root cause of the previously blank page: with no build settings defined,
+# Netlify published the raw repository root, so browsers received the dev
+# entry (`/src/main.tsx`, served as octet-stream) instead of the compiled
+# bundle. These settings build the app and publish the `dist/` output.
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# SPA fallback: let react-router handle client-side routes
+# (e.g. /login, /library) on direct visits and refreshes.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
