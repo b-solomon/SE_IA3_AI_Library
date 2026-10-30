@@ -1,0 +1,151 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
+endobj
+6 0 obj
+<< /Length 2235 >>
+stream
+0.2 0.25 0.4 rg
+50 750 512 2 re f
+BT
+/F2 9 Tf
+0.4 0.4 0.5 rg
+50 758 Td
+(KARUNYA UNIVERSITY  AI DIGITAL LIBRARY \(25CS312\)) Tj
+ET
+BT
+/F1 9 Tf
+460 758 Td
+(Page 1 of 1) Tj
+ET
+BT
+/F2 20 Tf
+0.1 0.1 0.2 rg
+50 705 Td
+(Artificial Intelligence: A Modern Approach \(Foundations\)) Tj
+ET
+BT
+/F2 12 Tf
+0.25 0.4 0.8 rg
+50 682 Td
+(Author: Stuart Russell & Peter Norvig | Category: Artificial Intelligence) Tj
+ET
+BT
+/F3 10 Tf
+0.4 0.4 0.4 rg
+50 662 Td
+(Candidate: BODDU SOLOMON \(URK25CS1191\) · Course: Software Engineering) Tj
+ET
+0.8 0.8 0.85 rg
+50 648 512 1 re f
+BT
+/F2 13 Tf
+0.15 0.2 0.35 rg
+50 620 Td
+(1. Intelligent Agents & Environmental Architecture) Tj
+ET
+BT
+/F1 10 Tf
+0.15 0.15 0.2 rg
+50 600 Td
+(An intelligent agent perceives its environment through sensors and acts through actuators:) Tj
+ET
+BT
+/F1 10 Tf
+0.15 0.15 0.2 rg
+50 584 Td
+(" PEAS Framework: Performance measure, Environment, Actuators, and Sensors definition.) Tj
+ET
+BT
+/F1 10 Tf
+0.15 0.15 0.2 rg
+50 568 Td
+(" Rationality: The agent selects actions that maximize expected performance based on past percepts.) Tj
+ET
+BT
+/F1 10 Tf
+0.15 0.15 0.2 rg
+50 552 Td
+(" Agent Typologies: Simple reflex, model-based reflex, goal-based, and utility-based agents.) Tj
+ET
+BT
+/F2 13 Tf
+0.15 0.2 0.35 rg
+50 522 Td
+(2. Large Language Models & Multi-Tier Fallback Chains) Tj
+ET
+BT
+/F1 10 Tf
+0.15 0.15 0.2 rg
+50 502 Td
+(In modern AI systems, resilient inference requires resilient multi-provider architectures:) Tj
+ET
+BT
+/F1 10 Tf
+0.15 0.15 0.2 rg
+50 486 Td
+(" Primary Engine: Google Gemini 1.5 Flash provides ultra-fast streaming conversational completions.) Tj
+ET
+BT
+/F1 10 Tf
+0.15 0.15 0.2 rg
+50 470 Td
+(" Secondary Fallback: OpenRouter provides high-throughput model failover on rate limits.) Tj
+ET
+BT
+/F1 10 Tf
+0.15 0.15 0.2 rg
+50 454 Td
+(" Tertiary Fallback: NVIDIA NIM provides on-demand sovereign inference capabilities.) Tj
+ET
+BT
+/F1 10 Tf
+0.15 0.15 0.2 rg
+50 438 Td
+(Implemented inside Supabase Deno Edge Functions \(ai-chat\) by BODDU SOLOMON \(URK25CS1191\).) Tj
+ET
+0.85 0.85 0.9 rg
+50 45 512 1 re f
+BT
+/F3 8 Tf
+0.5 0.5 0.5 rg
+50 32 Td
+(Karunya University Open Academic Repository · Licensed for 25CS312 Education) Tj
+ET
+BT
+/F2 8 Tf
+430 32 Td
+(Reg No: URK25CS1191) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R >> >> >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000260 00000 n 
+0000000338 00000 n 
+0000002625 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+2771
+%%EOF
